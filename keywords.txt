@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For jm4a_cmini
+#######################################
+
+#######################################
+# Caution! Use Tab instead of spaces
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+jm4a_cmini KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin KEYWORD2
+dataTransfer KEYWORD2
+noInputs KEYWORD2
+noOutputs KEYWORD2
+setAnalogInput KEYWORD2
+setAnalogOutput KEYWORD2
+setID KEYWORD2
+setConfirmation KEYWORD2
+enableMFDPO KEYWORD2
+enableOMDPO KEYWORD2
